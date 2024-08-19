@@ -29,8 +29,8 @@ Check out the live demo of the website: [Matchmaker Live](https://matchmaker-36c
   - Request Contact Information button for normal users (redirects to the checkout page).
 
 - **Checkout Page**: Users can request contact information by filling out a form and paying a fee. The request is sent to the admin for approval. Fields include:
-  - Biodata ID (readonly)
-  - User's Email (readonly)
+  - Biodata ID (read-only)
+  - User's Email (read-only)
   - Stripe Card Number Input
   - Submit Button
 
@@ -53,7 +53,7 @@ Check out the live demo of the website: [Matchmaker Live](https://matchmaker-36c
     - Expected Partner Age
     - Expected Partner Height
     - Expected Partner Weight
-    - Contact Email (readonly)
+    - Contact Email (read-only)
     - Mobile Number
   - **View Biodata**: Users can view their biodata information.
   - **My Contact Requests**: Shows all contact request information.
@@ -75,7 +75,7 @@ Check out the live demo of the website: [Matchmaker Live](https://matchmaker-36c
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Authentication**: JWT, Google Sign-In
+- **Authentication**: JWT, Firebase
 - **Payment Gateway**: Stripe
 
 ## Setup Instructions
@@ -87,10 +87,7 @@ Check out the live demo of the website: [Matchmaker Live](https://matchmaker-36c
 
 
 
-## License
-This project is licensed under the MIT License.
+
 
 ---
 
-### Author
-[Your Name]
