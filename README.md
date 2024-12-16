@@ -1,6 +1,6 @@
 # MatchMaker Website
 
-This project is a comprehensive matrimonial website designed to help users create, manage, and view biodatas. It includes various functionalities such as user registration, login, profile management, and premium features. Additionally, it provides an admin dashboard for managing users and biodata.
+This project is a matrimonial website designed to help users create, manage, and view biodatas. It includes various functionalities such as user registration, login, profile management, and premium features. Additionally, it provides an admin dashboard for managing users and biodata.
 
 ## Live Demo
 Check out the live demo of the website: [Matchmaker Live](https://matchmaker-36ccf.web.app/)
